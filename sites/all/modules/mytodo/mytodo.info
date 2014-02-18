@@ -1,0 +1,7 @@
+name = My ToDo
+description = "ToDo module - manage todo list"
+core = 7.x
+version = 0.1
+package = My ToDo
+; Information added by drupal.org packaging script on 2013-09-08
+
